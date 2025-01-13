@@ -1,0 +1,2 @@
+# imageseq_cmd
+Unity Recorderで出力したImage Sequenceをffmpegでmp4にしたくて作りました。
